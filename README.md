@@ -69,7 +69,6 @@ Este repositório contém duas aplicações separadas:
 ## ▶️ Como rodar o projeto
 
 ### 🔧 API
-
 ```bash
 cd api
 npm install
@@ -77,37 +76,37 @@ npx prisma generate
 npx prisma migrate dev
 npm run dev
 ```
+
 🌐 Web
+```bash
 cd web
 npm install
 npm run dev
-
+```
 
 O frontend espera que a API esteja rodando em http://localhost:3333.
 
 📌 Observações
 - Projeto separado por responsabilidade, mas integrado via chamadas HTTP.
+- -
 - Estrutura pensada para escalar e facilitar manutenção.
+- -
 - Código limpo, tipado e com foco em boas práticas.
 
 
 -----
 
-Se curtir o projeto, ⭐️ no repositório é sempre bem-vinda
 
-
-
-
------
 Certifique-se de configurar o arquivo .env com suas variáveis de conexão.
 
 -----
 
 ## 📄 Licença
 Este projeto está sob licença MIT.
+-
+Se curtir o projeto, ⭐️ no repositório é sempre bem-vinda
 
-
----
+--
 
 ##
 --🧠 Analisar 📚 Aprender ❌ Errar  
