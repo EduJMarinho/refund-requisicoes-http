@@ -20,21 +20,25 @@ Este repositório contém duas aplicações separadas:
 ---
 
 🧠 Funcionalidades
+-
 🔐 Autenticação
 - Cadastro e login com validação de campos
 - Perfis distintos: manager e employee
 - Redirecionamento automático conforme o tipo de usuário
 - Proteção de rotas por perfil
+- -
 📄 Reembolsos
 - Criação de solicitações com upload de comprovantes
 - Listagem paginada com filtro por nome
 - Visualização detalhada de cada reembolso
 - Ícones personalizados por categoria
+- -
 📊 Interface
 - Layout responsivo com navegação fluida
 - Feedback visual em ações (loading, sucesso, erro)
 - Separação clara entre rotas públicas e privadas
 - Componentes reutilizáveis com estilização via TailwindCSS
+- -
 ⚙️ Backend
 - API RESTful com rotas protegidas
 - Autenticação via JWT
