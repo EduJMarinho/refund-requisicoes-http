@@ -6,7 +6,7 @@ Este projeto é uma API REST desenvolvida como parte da minha jornada de aprendi
 -------
 👨‍💻 Autor
 
-laborado por Dev. Eduardo Marinho
+Dev. Eduardo Marinho
 
 ---
 
